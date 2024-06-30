@@ -14,3 +14,9 @@ navBtn.addEventListener("click", function () {
         navOpen = true
     }
 })
+
+
+
+
+
+     
